@@ -1,16 +1,15 @@
-### Hi there 👋
+# Silas Medeiros
 
-<!--
-**silasms/silasms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, eu sou o Silas, tenho 21 anos e moro no Brasil. Sou um amante de computação, estudo ciência da computação com conta própria.
 
-Here are some ideas to get you started:
+## Hard-skills
+*  Javascript
+*  NodeJS
+*  Java
+*  Spring
+*  React
+*  SQL
+*  No-SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+<a href="https://www.linkedin.com/in/silas-medeiros-6b44a0213/">linkedin</a>
