@@ -13,6 +13,7 @@ Oi, eu sou o Silas, tenho 21 anos e moro no Brasil. Sou um amante de computaçã
 *  React
 *  SQL
 *  No-SQL
+*  Typescript
 
 ## Learning
 *  Rust
