@@ -1,6 +1,6 @@
 # Silas Medeiros
 
-Oi, eu sou o Silas, tenho 21 anos e moro no Brasil. Sou um amante de computação, sou bolsista do programa CERTIFIED TECH DEVELOPER.
+Hello, I'm Silas Medeiros. I live in Brasil and programmer entusiast
 
 ## Hard-skills
 *  Javascript
@@ -11,6 +11,7 @@ Oi, eu sou o Silas, tenho 21 anos e moro no Brasil. Sou um amante de computaçã
 *  SQL
 *  No-SQL
 *  Typescript
+*  Golang
 
 ## Learning
 *  Rust
